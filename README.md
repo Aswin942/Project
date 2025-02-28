@@ -1,7 +1,7 @@
-# My Project
-This project is a simple demonstration of how to manage a GitHub repository.
+# Simple Interest Calculator
+This project calculates simple interest using a bash script.
 
 ## Installation
-To install, run:
+To clone the project:
 ```bash
 git clone https://github.com/username/repository-name.git
